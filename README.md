@@ -6,8 +6,9 @@ Using Keras, VGG16 convolutional neural network clustering, 210 flower images ar
 
 ## Data
 
-Dataset is from a Kaggle competition below:
+Dataset is from a Kaggle competition below. The competetion is considered for classification (Supervised Learning) of the flowers, but in our case we removed the labels of the images that indicats their types for clustering purposes (Unsupervised Learning).
+https://www.kaggle.com/olgabelitskaya/flower-color-images
 
+
+Thanks to hthe inspiration:
 https://www.kaggle.com/nageshsingh/flower-classification-xception
-
-As it is needed to use the dataset for Unsupervised Machine Learning, types of flowers are removed during pre-prosesssing.
