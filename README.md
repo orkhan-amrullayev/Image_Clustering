@@ -4,7 +4,7 @@ Using Keras, VGG16 convolutional neural network clustering, hundreds of differen
 
 ![image_clustering_flowers](https://user-images.githubusercontent.com/64093617/107292956-fe45d880-6a6a-11eb-8d62-bf545386341f.png)
 
-## Data
+## Dataset
 
 Dataset is from a Kaggle competition below. The competetion is considered for classification (Supervised Learning) of the flowers, but in our case we removed the labels of the images that indicats their types for clustering purposes (Unsupervised Learning).
 https://www.kaggle.com/olgabelitskaya/flower-color-images
